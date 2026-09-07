@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "additionalDirectories": [
+      "C:/_Project/TuxBase-MMO",
+      "C:/_Project/Mabinogi"
+    ],
+    "deny": [
+      "Edit(C:/_Project/TuxBase-MMO/**)",
+      "Write(C:/_Project/TuxBase-MMO/**)",
+      "Edit(C:/_Project/Mabinogi/**)",
+      "Write(C:/_Project/Mabinogi/**)"
+    ]
+  }
+}
